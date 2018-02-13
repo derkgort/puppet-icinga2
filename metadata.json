@@ -1,6 +1,6 @@
 {
   "name": "puppet-icinga2",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "author": "Icinga Development Team",
   "summary": "Icinga 2 Puppet module",
   "license": "GPLv2",
